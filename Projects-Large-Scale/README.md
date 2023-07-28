@@ -25,7 +25,7 @@
 ---
 
 <h2>
-  INTEGRANTE DESTAQUE
+  INTEGRANTE DESTAQUE (TOP TEAM MEMBERS)
 </h2>
 <div style="display: flex" width="100%">
 <img src="https://github.com/BeatrizMatsushita/Projects-Large-Scale/blob/main/img/Tela%20Ranking%20diario%20(%20MODELO%202%20)%20-%20Anim%2002%20-%20Mistura.png?raw=true" width="49%"/>
@@ -57,18 +57,16 @@ Implementing this intricate set of business rules into the web application has b
 <img src="https://github.com/BeatrizMatsushita/Projects/blob/main/img/ambev.jpg?raw=true" width="49%"/>
    <h3> Company </h3><p> AMBEV </p>
  <h3>About</h3> <p>
-The project's main objective is to recognize the most productive employee each month, based on their contributions to the company. Additionally, it involves managing login and logout data for machine groups and individual machines, as well as tracking information about the employees' work hours. Each sector and area within the company has specific targets, which are analyzed through key performance indicators.
-Implementing this intricate set of business rules into the web application has been a challenging yet rewarding task. The application seamlessly adapts to these complexities, providing an efficient and user-friendly interface for all stakeholders involved. Through the application's functionalities, the company can optimize productivity, assess employee performance, and make data-driven decisions to achieve its goals effectively.
+This project is an Android app for cloud-based recipe management and centralization. It assists operators during production, validating recipes based on the desired quantity. The app utilizes embedded Machine Learning technology, enabling label text recognition through a tablet camera (OCR).
   </p>
   <h3>My Main Contribution</h3><p><u>
-   <li> UI development and design concepts improvement by using React framework</li>
-   <li> Logical processes in data treatment</li>
-   <li> Utilizing and integrating multiple APIs and endpoints</li>
-   <li> Employing with a variety of libraries and dependencies</li>
+   <li> Design Pattern </li>
+   <li> UX Design, UX Research, UX Usability</li>
+   <li> UI prototyping in Figma </li>
    <li> Adhering to documentations of business rules</li>
   </u>
   </p>
   <h3> Core Technologies</h3> <p>
-    React.JS | SQL Server Database | PI System (Data Arquive e PI AF) | PI Vision | PI Web API | Microservices Archtecture | Microsoft .Net 6 | Figma | Visual Studio Code | Visual Studio | Git | Swagger | Microsoft Azure | Azure DevOps 
+    Android Studio | Microsoft Azure | Azure DevOps | SonarCloud | SQL Server | Visual Studio | Miro | Figma | 
   </p>
 </div>
